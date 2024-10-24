@@ -3,4 +3,10 @@ public class First {
         System.out.println("Hello");
     }
 }
-    
+
+// test
+
+class Test{
+    System.out.println("fff");
+}
+
